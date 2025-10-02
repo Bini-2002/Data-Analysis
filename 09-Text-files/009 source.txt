@@ -1,1 +1,3 @@
-This is the simplest plain text file!
+New text file
+Second line
+Third line
