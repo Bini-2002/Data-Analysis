@@ -1,0 +1,64 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Environments (virtual/conda)
+.venv/
+venv/
+ENV/
+env/
+.conda/
+.mamba/
+# If you created a project-local conda env at ./.conda
+/.conda/
+
+# Jupyter
+.ipynb_checkpoints
+profile_default/
+# nbconvert outputs
+*.nbconvert.ipynb
+
+# VS Code
+.vscode/
+.history/
+
+# Build artifacts
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+wheels/
+share/python-wheels/
+
+# Logs
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing/coverage
+.tox/
+.nox/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+
+# Type checking / linters
+.mypy_cache/
+.pytype/
+.pyre/
+.ruff_cache/
+
+# IDEs
+.idea/
+*.iml
